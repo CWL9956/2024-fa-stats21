@@ -1,0 +1,23 @@
+[33mcommit 37f90a7d6321bb512a6d9e1fc855a1bc403f4050[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Miles Chen <mileschen@stat.ucla.edu>
+Date:   Mon Sep 30 07:41:51 2024 -0700
+
+    added lecture 1-1 git basics
+
+[33mcommit 9e18529d9f1d2b057363e360f5920414d4e7e706[m
+Author: Miles Chen <mileschen@gmail.com>
+Date:   Thu Sep 26 23:36:13 2024 -0700
+
+    added 0-1 filesystem
+
+[33mcommit 547691e57fda5cb3b9b70a7ea1103466ee7f0c76[m
+Author: Miles Chen <mileschen@gmail.com>
+Date:   Thu Sep 26 23:35:37 2024 -0700
+
+    added lecture 0-1
+
+[33mcommit 2dbd58108e5803a329bc512226e4323f4e497294[m
+Author: Miles Chen <mileschen@gmail.com>
+Date:   Thu Sep 26 17:23:31 2024 -0700
+
+    Initial commit
